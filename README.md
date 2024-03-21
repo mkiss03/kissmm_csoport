@@ -1,3 +1,12 @@
+QvízGame kérdések:
+
+
+
+
+
+
+
+
 Csapattagok			Tételek		Github repository elérés					
 										
 										
